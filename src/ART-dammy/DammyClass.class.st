@@ -17,6 +17,7 @@ DammyClass >> initialize [
 
 { #category : 'accessing' }
 DammyClass >> var1 [ 
+	"Dammy Comment"
 
 	^ var1 
 ]
