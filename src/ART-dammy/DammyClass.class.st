@@ -10,6 +10,7 @@ Class {
 
 { #category : 'initialization' }
 DammyClass >> initialize [ 
+	"initializer"
 
 	super initialize .
 	var1 := 0
